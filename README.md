@@ -1,2 +1,1 @@
-# furtestkle
-00000
+Telegram test bot with 50 questions.
